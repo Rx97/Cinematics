@@ -8,9 +8,13 @@ to help guide the player along.
 Controls:
 
 Movement:    WASD
+
 Jump:        Spacebar
+
 Pause:       Esc
+
 Camera:      Mouse
+
 Interaction: F
 
 Packaged Build: https://drive.google.com/file/d/1lzPj_e0X8VWbioHbsR4dtCgPy_EZafRo/view?usp=sharing
